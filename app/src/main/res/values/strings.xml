@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica04 RODRIGUEZ SALAZAR HECTOR MAURICIO</string>
+
+    <string name="titulo">Motocicletas</string>
+    <string name="name">Nombre</string>
+    <string name="type">Tipo</string>
+    <string name="year">Año</string>
+    <string name="height">Altura (cm)</string>
+    <string name="id">ID</string>
+    <string name="price">Precio</string>
+    <string name="descripcion">Descripción</string>
+    <string name="gasoline">Gasolina (L)</string>
+    <string name="add">Registrar</string>
+    <string name="seach">Buscar</string>
+    <string name="clean">Limpiar</string>
+</resources>
