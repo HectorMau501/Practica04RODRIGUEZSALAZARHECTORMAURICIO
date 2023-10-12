@@ -13,4 +13,12 @@
     <string name="add">Registrar</string>
     <string name="seach">Buscar</string>
     <string name="clean">Limpiar</string>
+
+    <string-array name="lista_productos">
+        <item>Deportiva</item>
+        <item>Normal</item>
+        <item>Drift</item>
+        <item>Sport Turismo</item>
+
+    </string-array>
 </resources>
